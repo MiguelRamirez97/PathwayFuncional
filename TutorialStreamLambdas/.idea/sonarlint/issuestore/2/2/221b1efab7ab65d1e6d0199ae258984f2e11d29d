@@ -1,0 +1,5 @@
+
+j
+java:S4034$"HReplace this "filter().findFirst().isPresent()" chain with "anyMatch()".(ˆ¦Ãğùÿÿÿÿ8¿ÃáŸ–/
+h
+java:S4034"FReplace this "filter().findAny().isPresent()" chain with "anyMatch()".(ˆ¦Ãğùÿÿÿÿ8¿ÃáŸ–/
