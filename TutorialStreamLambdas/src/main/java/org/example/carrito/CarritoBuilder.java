@@ -21,5 +21,12 @@ public class CarritoBuilder { ArrayList<Integer> precios = new ArrayList<Integer
         precios.add(nuevoValor);
         return this;
     }
+    public CarritoBuilder addMultiple(int size, int value){
+        for(int i = 0; i < size; i++){
+            precios.add(value);
+        }
+        return this;
+    }
+
 }
 
